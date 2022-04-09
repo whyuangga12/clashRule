@@ -8,7 +8,7 @@
 ```yaml
 all-ads:
     type: http
-    behavior: domain
+    behavior: domain / classical
     url: https://raw.githubusercontent.com/whyuangga12/cfmRule/main/all-ads.yaml
     path: "./confs/ruleset/all-ads.yaml"
     interval: 86400 
