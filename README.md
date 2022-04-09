@@ -13,3 +13,7 @@ all-ads:
     path: "./confs/ruleset/all-ads.yaml"
     interval: 86400 
 ```
+## source  
+
++ [taamrin](https://github.com/taamarin)
++ [Yogi-0796](https://github.com/Yogi-0796)
