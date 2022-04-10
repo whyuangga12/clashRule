@@ -678,4 +678,9 @@ payload:
   - DOMAIN-SUFFIX,tlivecdn.com
   - DOMAIN-SUFFIX,ttlivecdn.com
   - DOMAIN-SUFFIX,ttlivecdn.com.c.worldfcdn.com
-  - DOMAIN-SUFFIX,ttoversea.net
+  - DOMAIN-SUFFIX,ttoversea.net  
+# > Tidal 
+  - DOMAIN-SUFFIX,tidal-cms.s3.amazonaws.com
+  - DOMAIN-SUFFIX,tidal.com
+  - DOMAIN-SUFFIX,tidalhifi.com
+  - DOMAIN-SUFFIX,wimpmusic.com
