@@ -10,7 +10,7 @@ all-ads:
     type: http
     behavior: domain / classical
     url: https://raw.githubusercontent.com/whyuangga12/cfmRule/main/all-ads.yaml
-    path: "./confs/ruleset/all-ads.yaml"
+    path: "./ruleset/all-ads.yaml"
     interval: 86400 
 ```
 ## source  
