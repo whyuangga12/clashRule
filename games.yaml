@@ -1,6 +1,6 @@
 payload:
-  - DOMAIN-SUFFIX,
-  # Mulai baris ini kebawah bisa di edit/hapus
+
+
   - DOMAIN-SUFFIX,100classicbooks.com
   - DOMAIN-SUFFIX,ac-pocketcamp.com
   - DOMAIN-SUFFIX,amiibo.com
@@ -29,7 +29,7 @@ payload:
   - DOMAIN-SUFFIX,beth.games
   - DOMAIN-SUFFIX,bethesda.net
   - DOMAIN-SUFFIX,bethesdagamestudios.com
-  - DOMAIN-SUFFIX,bethsoft.com
+  - DOMAIN-SUFFIX,bethsoft.co
   - DOMAIN-SUFFIX,bh3.com
   - DOMAIN-SUFFIX,bioware.com
   - DOMAIN-SUFFIX,biowarestore.com
