@@ -14,7 +14,7 @@ all-ads:
     interval: 86400 
 ```
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Google+Sans&duration=4000&pause=500&color=8000FF&width=435&lines=Wahyu+Angga+Saputra" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Google+Sans&duration=4000&pause=500&color=8000FF&width=600&lines=Wahyu+Angga+Saputra" />
 </p>
 
 ## source  
